@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+.sw{
+    border: 5px solid green;
+    margin: 100px 250px; 
+    padding: 50px;
+    color: red;
+    background-color: lightblue;
+}
+.sw h1{
+    display: inline-block;
+    width: 50px;
+    font-size: 50px;
+}
+button{
+    margin: 20px;
+    padding: 13px;
+    border: none;
+    border-radius: 35px;
+    background-color: yellow;
+    color: green;
+}
